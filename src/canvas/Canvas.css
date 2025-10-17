@@ -1,0 +1,11 @@
+#div-canvas {
+    flex: 1 1 auto;
+    background-color: rgb(211, 211, 211);
+    padding: 10px;
+}
+
+#canvas {
+    width: 100%;
+    height: 100%;
+    background-color: white;
+}
